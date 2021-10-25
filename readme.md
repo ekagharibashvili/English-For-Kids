@@ -7,7 +7,7 @@
 2. Category Page
 3. Statistics Page
 
-![screenshot](english-for.kids.data/img/screenshot.png)
+![screenshot](/assets/readme.jpg)
 ### Demo
 https://english-for-kids.netlify.com/ (version without Hacker scope)
 
